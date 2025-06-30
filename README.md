@@ -3,6 +3,7 @@
 This is a python3 implementation from the zzz_exploit. (https://github.com/worawit/MS17-010)
 
 Original exploit was based on eternal sinergy and eternal champion. This is a partially translation to python3, with the "mysmb.py" included. Tested in windows 7, windows server 2003, and windows 10. Other Operative Systems may require to finish the translation to python3.
+<br>
 
 usage: 
 
